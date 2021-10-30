@@ -7,7 +7,7 @@ public class Main {
             my.color = "черная";
             my.species = "кошка";
             my.age = 3;
-            my.breed = "Сибирская";
+            my.breed = "Cибирская";
             my.weight = 4;
 
             my.meow();

@@ -9,7 +9,7 @@ public class Cat {
 
 
         void meow() {
-            System.out.println( "Я " +color+" " + breed+" " +species+ ", вешу "+weight+" кг и мне "+age+" года"
+            System.out.println( "Я " +color+" " + breed+" " +species+ ", вешу "+weight+" кг и мне "+age+" года."
             );
         }
 
